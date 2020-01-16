@@ -1,6 +1,6 @@
 hello()
 
 {
-	void main()
+	
 }
 
