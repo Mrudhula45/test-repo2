@@ -1,6 +1,3 @@
 hello()
-
 {
-	void main()
 }
-
